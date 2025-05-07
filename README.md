@@ -14,5 +14,4 @@ This is a simple app that helps you calculate your Body Mass Index (BMI) using S
 ---
 
 Made with ❤️ using Streamlit.
-
-![BMI App Screenshot]("bmi app.png")
+)
